@@ -263,7 +263,7 @@
     border-radius: 50%;
     background-color: #8d7752;
     color: white;
-    display: flex;
+    display: flex !important;
     justify-content: center;
     align-items: center;
     transition: 1s ease;
