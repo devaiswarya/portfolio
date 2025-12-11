@@ -1,0 +1,51 @@
+@media screen and (min-width: 320px) and (max-width:768px){
+    .firstclass{
+        background-position: center;
+    }
+    .thirdclass{
+        flex-direction: column;
+    }
+    .win{
+        flex-direction: column;
+        margin: auto;
+    }
+    .one{
+        justify-content: center;
+    }
+    .two{
+        justify-content: center;
+        align-items: center;
+    }
+    .subclass{
+        flex-direction: column;
+        gap: 8px;
+    }
+    .inherit{
+        flex-direction: column;
+    }
+    .indiv{
+        flex-direction: column;
+    }
+    .pro{
+        width: 100%;
+        height: 250px;
+    }
+    .num{
+        width: auto;
+        text-align: center;
+    }
+    .sum{
+        width: auto;
+        text-align: center;
+    }
+    .max{
+        width: auto;
+    }
+    .domain{
+        flex-direction: column;
+        gap: 10px;
+    }
+    div.container-fluid{
+        justify-content: space-around !important;
+    }
+}
